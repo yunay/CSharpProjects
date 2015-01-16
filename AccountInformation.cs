@@ -23,6 +23,7 @@ namespace AccountInformation
             Console.WriteLine("Client id: {0}",clientID);
             Console.WriteLine("Total balance: {0:F2}",accBalance);
             Console.WriteLine("Active: {0}",isActive);
+            Console.WriteLine("NewLine:...");
 
         }
     }
